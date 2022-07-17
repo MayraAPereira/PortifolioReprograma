@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import RepositoryCard from "../CardRepository/CardRepositury";
-import "./Repositories.css";
+
+import "./repositories.css";
 
 function Repositories() {
   const [repositories, setRepositories] = useState([]);
