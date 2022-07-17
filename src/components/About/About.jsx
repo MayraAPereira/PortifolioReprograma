@@ -1,5 +1,5 @@
 import may from "../../assets/May.jpg"
-import "./About.css";
+import "./about.css";
 
 function About() {
   return (
