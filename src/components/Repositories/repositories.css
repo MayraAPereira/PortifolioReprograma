@@ -1,0 +1,25 @@
+.title-projetos {
+    color: #0D5FA6;
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .main {
+    padding: 0 5%;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .repository-container {
+    margin-bottom: 2rem;
+  }
+  
+  @media screen and (min-width: 769px) {
+    .repository-container {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 16px;
+    }
+  }

@@ -1,0 +1,17 @@
+.repository-card {
+    background: #0D5FA6;
+    width: 320px;
+    height: 120px;
+    border: 1px solid #0A6AA6;
+    border-radius: 10px;
+    padding-top: 2rem;
+    text-align: center;
+    color: snow;
+    margin-top: 1rem;
+  }
+  
+  .repository-title {
+    padding-top: 1rem;
+    font-size: 1.2em;
+    padding-bottom: 1rem;
+  }
